@@ -1,1 +1,1 @@
-GWT
+Example of GWT Maven project
